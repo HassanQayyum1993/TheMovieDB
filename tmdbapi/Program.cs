@@ -61,7 +61,7 @@ builder.Services.AddSwaggerGen(swagger =>
     {
         Version = "v1",
         Title = "JWT Token Authentication API",
-        Description = "ASP.NET Core 3.1 Web API"
+        Description = "ASP.NET Core 6 Web API"
     });
     // To Enable authorization using Swagger (JWT)  
     swagger.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme()

@@ -9853,11 +9853,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TheMovieDB\\tmdbapi\\tmdbapi\\tmdbapi.csproj",
+      "projectUniqueName": "D:\\TheMovieDatabaseApplication\\Backend-API\\tmdbapi\\tmdbapi.csproj",
       "projectName": "tmdbapi",
-      "projectPath": "D:\\TheMovieDB\\tmdbapi\\tmdbapi\\tmdbapi.csproj",
+      "projectPath": "D:\\TheMovieDatabaseApplication\\Backend-API\\tmdbapi\\tmdbapi.csproj",
       "packagesPath": "C:\\Users\\hqayyum\\.nuget\\packages\\",
-      "outputPath": "D:\\TheMovieDB\\tmdbapi\\tmdbapi\\obj\\",
+      "outputPath": "D:\\TheMovieDatabaseApplication\\Backend-API\\tmdbapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hqayyum\\AppData\\Roaming\\NuGet\\NuGet.Config",
